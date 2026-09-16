@@ -1,0 +1,13 @@
+Verified program output
+
+Loan Amount: $ 20000
+Monthly Payment: $ 386.66
+Total Interest Paid: $ 3199.36
+Debt-to-Income Ratio: 32.17 %
+Risk Classification: Lower Risk
+
+Three verified Git commits in chronological order
+
+2b6aec1 Create loan payment calculator
+3d10d98 Add total interest calculation
+cd7ea56 Add debt-to-income risk classification
